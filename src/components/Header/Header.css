@@ -1,0 +1,43 @@
+.banner-image {
+    background-image: url('../images/banner-img.jpg');
+    background-size: cover;
+  }
+#header{
+    background-color: white;
+    color: black;
+    min-height: 120px;
+    padding: 20px;
+    bottom: 1px solid red;
+}
+.dg{
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 25px;
+}
+.style{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-left:0 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.style>a:hover{
+    text-decoration: underline;
+}
+
+#search{
+    border: none;
+    box-sizing:initial;
+    border-style: none;
+    margin-left: 0px;
+}
+
+.cBtn{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding: 5px;
+    margin-right: 0px;
+}
